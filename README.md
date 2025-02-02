@@ -1,3 +1,21 @@
-| skills | portfolios | contact me |
-|-|-|-|
-| ![25-02-02 21-44-23](https://github.com/user-attachments/assets/7ad42221-c91b-4f56-8080-e1a886b5bf11) | ![25-02-02 21-48-24](https://github.com/user-attachments/assets/25b39550-783a-4249-b9f1-20849450e08c) | ![25-02-02 21-26-51](https://github.com/user-attachments/assets/f576d7ab-5d28-45ff-bf9d-c9d996dde32a) |
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://github.com/natilosir/ORM">Php</a></li>
+        <li><a href="https://github.com/natilosir/chat">Laravel</a></li>
+        <li>WP Plugins/Skin Design</li>
+        <li>JavaScript</li>
+        <li>JQurey</li>
+        <li>JSON</li>
+        <li>HTML5 & CSS3</li>
+        <li>Bootstrap</li>
+        <li>SEO</li>
+        <li><a href="https://github.com/natilosir/Telegram-Bot-SDK">API</a></li>
+      </ul>
+    </td>
+    <td style="text-align: right;">
+      <img src="https://github.com/user-attachments/assets/219d368f-ef7b-4fce-96d1-42c6823fa003" alt="25-02-02 21-26-51" style="max-width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
