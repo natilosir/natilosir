@@ -4,7 +4,7 @@
       <ul>
         <li><a href="https://github.com/natilosir/ORM">Php</a></li>
         <li><a href="https://github.com/natilosir/chat">Laravel</a></li>
-        <li>[WP Plugins](https://github.com/natilosir/assets-minifier) / [Skin Design](https://github.com/natilosir/ORM-WordPress)</li>
+        <li><a href="https://github.com/natilosir/assets-minifier">WP Plugins</a> / <a href="https://github.com/natilosir/ORM-WordPress">Skin Design</a></li>
         <li>JavaScript</li>
         <li>JQurey</li>
         <li>JSON</li>
