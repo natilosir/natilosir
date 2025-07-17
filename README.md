@@ -6,8 +6,8 @@
         <li><a href="https://github.com/natilosir/chat">Laravel</a></li>
         <li><a href="https://github.com/natilosir/assets-minifier">WP Plugins</a> / <a href="https://github.com/natilosir/ORM-WordPress">Skin Design</a></li>
         <li>JavaScript</li>
+        <li><a href="https://chat.natilos.ir/">Nuxt - Vue</a></li>
         <li>JQurey</li>
-        <li>JSON</li>
         <li>HTML5 & CSS3</li>
         <li>Bootstrap</li>
         <li>SEO</li>
